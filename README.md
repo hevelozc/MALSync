@@ -23,6 +23,7 @@ Makes it possible to use your MyAnimeList/Anilist/Kitsu/Simkl anime/mangalist as
     <tbody>
       <tr>
                 <td><a href="https://www.adkami.com/"><img src="https://favicon.malsync.moe/?domain=https://www.adkami.com/"> ADKami</a></td>
+               <td><a href="https://animeio.com/"><img src="https://favicon.malsync.moe/?domain=https://animeio/"> Animeio</a></td>
                 <td><a href="https://asuratoon.com"><img src="https://favicon.malsync.moe/?domain=https://asuratoon.com"> AsuraScans</a></td>
                 <td><a href="http://app.emby.media"><img src="https://favicon.malsync.moe/?domain=app.emby.media"></a> <a href="http://app.emby.media">Emby</a> <a href="https://github.com/MALSync/MALSync/wiki/Emby-Plex#emby">[Wiki]</a></td>
               </tr><tr>
